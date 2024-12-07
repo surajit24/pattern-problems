@@ -1,4 +1,4 @@
-# Pattern 1
+# Pattern 4
 
 ## Problem Statement:
 
